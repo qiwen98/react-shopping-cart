@@ -1,0 +1,733 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"border-s",
+				"border-style\tproperty"
+			],
+			[
+				"current",
+				"currentbutton"
+			],
+			[
+				"button",
+				"buttonchildren"
+			],
+			[
+				"in",
+				"inline-block\tdisplay"
+			],
+			[
+				"li",
+				"list-style\tproperty"
+			],
+			[
+				"bck",
+				"background-size\tproperty"
+			],
+			[
+				"style",
+				"list-style\tproperty"
+			],
+			[
+				"text-",
+				"text-anchor\tproperty"
+			],
+			[
+				"sle",
+				"align-self\tproperty"
+			],
+			[
+				"back",
+				"background-color\tproperty"
+			],
+			[
+				"backgorund",
+				"background-size\tproperty"
+			],
+			[
+				"ri",
+				"right--bg--colour"
+			],
+			[
+				"fott",
+				"footer-button"
+			],
+			[
+				"foot",
+				"footerbutton"
+			],
+			[
+				"sc",
+				"scroll"
+			],
+			[
+				"foo",
+				"footer-button"
+			],
+			[
+				"tra",
+				"translateX()\ttransform"
+			],
+			[
+				"tr",
+				"transform\tproperty"
+			],
+			[
+				"tex",
+				"text-align\tproperty"
+			],
+			[
+				"a",
+				"align-self\tproperty"
+			],
+			[
+				"wind",
+				"window"
+			],
+			[
+				"f",
+				"footer"
+			],
+			[
+				"cont",
+				"container-frame"
+			],
+			[
+				"bo",
+				"border\tproperty"
+			],
+			[
+				"ba",
+				"background-image\tproperty"
+			],
+			[
+				"ov",
+				"overflow\tproperty"
+			],
+			[
+				"ma",
+				"margin-top\tproperty"
+			],
+			[
+				"padd",
+				"padding-top\tproperty"
+			],
+			[
+				"font",
+				"font-size-adjust\tproperty"
+			],
+			[
+				"padding",
+				"padding-left\tproperty"
+			],
+			[
+				"win",
+				"window"
+			],
+			[
+				"he",
+				"heightperpage"
+			],
+			[
+				"cons",
+				"console"
+			],
+			[
+				"s",
+				"scroll"
+			],
+			[
+				"d",
+				"display\tproperty"
+			],
+			[
+				"tran",
+				"transition\tproperty"
+			],
+			[
+				"c",
+				"cover\tbackground-size"
+			],
+			[
+				"top",
+				"margin-top\tproperty"
+			],
+			[
+				"no",
+				"no-repeat"
+			],
+			[
+				"marg",
+				"margin-top\tproperty"
+			],
+			[
+				"con",
+				"container4"
+			],
+			[
+				"o",
+				"overflow\tproperty"
+			],
+			[
+				"hea",
+				"header\tTag"
+			],
+			[
+				"j",
+				"jquery"
+			],
+			[
+				"backgro",
+				"background-position\tproperty"
+			],
+			[
+				"add",
+				"addEventListener"
+			],
+			[
+				"lo",
+				"loki"
+			],
+			[
+				"docum",
+				"documentE1"
+			],
+			[
+				"co",
+				"container2"
+			],
+			[
+				"scroll",
+				"scrollTop"
+			],
+			[
+				"cona",
+				"container5"
+			],
+			[
+				"conta",
+				"container"
+			],
+			[
+				"scro",
+				"scrollTop"
+			],
+			[
+				"text",
+				"text-align\tproperty"
+			],
+			[
+				"ho",
+				"hover-left"
+			],
+			[
+				"le",
+				"left--bg--colour"
+			],
+			[
+				"backro",
+				"background\tproperty"
+			],
+			[
+				"over",
+				"overflow\tproperty"
+			],
+			[
+				"pos",
+				"position\tproperty"
+			],
+			[
+				"right",
+				"right--button--hovor--colour"
+			],
+			[
+				"left",
+				"left--button--hovor--colour"
+			],
+			[
+				"lef",
+				"left--button--hovor--colour"
+			],
+			[
+				"pag",
+				"page2"
+			],
+			[
+				"b",
+				"background-color\tproperty"
+			],
+			[
+				"ove",
+				"overflow-x\tproperty"
+			],
+			[
+				"p",
+				"PagePixel"
+			],
+			[
+				"mar",
+				"margin-top\tproperty"
+			],
+			[
+				"margin",
+				"margin-top\tproperty"
+			],
+			[
+				"se",
+				"sans-serif\tfont-family"
+			],
+			[
+				"font-",
+				"font-style\tproperty"
+			],
+			[
+				"wid",
+				"width\tproperty"
+			],
+			[
+				"ar",
+				"arg1"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"e",
+				"eventname"
+			],
+			[
+				"event",
+				"eventEmitter"
+			],
+			[
+				"res",
+				"response"
+			],
+			[
+				"bu",
+				"Buttons"
+			],
+			[
+				"class",
+				"className"
+			],
+			[
+				"open",
+				"openbutton"
+			],
+			[
+				"clo",
+				"closebuttonid"
+			],
+			[
+				"bac",
+				"background-color\tproperty"
+			],
+			[
+				"backg",
+				"background-color\tproperty"
+			],
+			[
+				"close",
+				"closebutton"
+			],
+			[
+				"first",
+				"firstbutton"
+			],
+			[
+				"butto",
+				"buttonid"
+			],
+			[
+				"div",
+				"divgroup"
+			],
+			[
+				"dd",
+				"dd"
+			],
+			[
+				"ins",
+				"insertZ"
+			],
+			[
+				"inser",
+				"insertY"
+			],
+			[
+				"rande",
+				"randomValueFromArray"
+			],
+			[
+				"story",
+				"storyText"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": ".gitignore",
+			"settings":
+			{
+				"buffer_size": 136,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "package.json",
+			"settings":
+			{
+				"buffer_size": 405,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "package-lock.json",
+			"settings":
+			{
+				"buffer_size": 511872,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "README.md",
+			"settings":
+			{
+				"buffer_size": 17416,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "README.sublime-workspace",
+			"settings":
+			{
+				"buffer_size": 2,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/User/my-app/README.sublime-workspace",
+		"/C/Users/User/my first website/index.html",
+		"/C/Users/User/my first website/jquery.js",
+		"/C/Users/User/my first website/jquery.parallaxscrolling.js",
+		"/C/Users/User/my first website/index2.html",
+		"/C/Users/User/my first website/index2",
+		"/C/Users/User/first-app/package.json",
+		"/C/Users/User/first-app/package-lock.json",
+		"/C/Users/User/first-app/views/index.ejs",
+		"/C/Users/User/first-app/node_modules/view/index.ejs",
+		"/C/Users/User/first-app/node_modules/views",
+		"/C/Users/User/counter-app/src/App.js",
+		"/C/Users/User/Desktop/project 3/index.html",
+		"/C/Users/User/Desktop/project 3/main.js",
+		"/C/Users/User/Desktop/New folder (2)/index.html",
+		"/C/Users/User/Desktop/New folder (2)/main.js"
+	],
+	"find":
+	{
+		"height": 32.0
+	},
+	"find_in_files":
+	{
+		"height": 107.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 4,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": ".gitignore",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 136,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Git Formats/Git Ignore.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "package.json",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 405,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JSON.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "package-lock.json",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 511872,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JSON.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "README.md",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 17416,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Markdown/Markdown.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "README.sublime-workspace",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"history_list_is_closing": true,
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 32.0
+	},
+	"input":
+	{
+		"height": 39.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "README.sublime-project",
+	"replace":
+	{
+		"height": 60.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
