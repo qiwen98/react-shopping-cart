@@ -1,0 +1,120 @@
+.wrapper {
+  text-align: center;
+  width: 80%;
+  float: left;
+  margin-left: 10%;
+
+}
+
+
+
+@keyframes Home-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
+.Frame{
+
+  position: relative;
+  text-align: center;
+  height: 90vmin;
+  width: 80vmin;
+  display: block;
+  border-style: solid;
+  float:left;
+  font-size: 15px;
+}
+.wrapper>h1{
+
+  font-size: 3em; 
+  font-weight: 0.8em;
+  line-height: 0.7em;
+}
+.Frame .picturearea{
+   margin-left: 10%;
+  margin-top: 5%;
+  height: 50%;
+  width: 80%;
+  
+   overflow: hidden;
+ 
+  background-size:cover  ;
+  background-position: center;
+      
+   
+}
+ 
+
+.infoarea{
+  position: relative;
+  top:5%;
+  height:40%;
+
+}
+
+
+.Frame .infoarea .price{
+  font-size:1.5em;
+  font-family:  "Times New Roman", Times, serif;
+  font-style: italic;
+  margin-bottom: 0.1em;
+  margin-top: -0.45em;
+}
+.Frame .infoarea .quantity{
+ 
+  margin-top: 0.15em;
+  font-size: 1.1em;
+}
+
+
+
+
+.plusbutton{
+  position: absolute;
+  height: 10vh;
+  width:10vh;
+  display: block;
+  margin-left: 10%;
+  top:30%;
+  
+
+}
+.minusbutton{
+position: absolute;
+  height: 10vh;
+  width:10vh;
+  display: block;
+  margin-left:  70%;
+  top:30%;
+  
+}
+
+
+
+.shoppingcart{
+  position: relative;
+  text-align: center;
+  display: inline-block;
+  height: 20vh; 
+  width: 100%;
+  top: 10vh;
+
+  
+  font-size: 20px;
+}
+
+.shoppingcart .totalquantity{
+  position: absolute;
+  margin-top: 1em;
+
+}
+.shoppingcart .totalprice{
+  position: absolute;
+
+
+
+
+}
