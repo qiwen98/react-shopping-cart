@@ -17,7 +17,8 @@ The objective of this project is to create a simple shopping cart using react.js
 `http://localhost:3000`.
 
 **Step 7: You will see somethings like this
-![alt text](https://drive.google.com/uc?export=view&id=1sqlKcacRpUxxwF13Zw8KcB0OltZznqOq)
+![capture](https://user-images.githubusercontent.com/45889437/72801355-4a698380-3c84-11ea-8746-25fa5a8d8b35.JPG)
+
 
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
