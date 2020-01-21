@@ -3,13 +3,18 @@ The objective of this project is to create a simple shopping cart using react.js
 
 Start the project by reading the description below:
 
-Step 1: Install node.js and npm
-Step 2: install razzle
-Step 3: Create a new project folder named "my-app" (please refer to documentation below)
-Step 4: downlaod the src folder and replace it with the src folder orignially created in "my-app folder"
-Step 5: In cmd, locate the "my-app" project and use command nmp start to start
+Step 1: Install node.js and npm.
+
+Step 2: install razzle.
+
+Step 3: Create a new project folder named "my-app" (please refer to documentation below).
+
+Step 4: downlaod the src folder and replace it with the src folder orignially created in "my-app folder".
+
+Step 5: In cmd, locate the "my-app" project and use command nmp start to start.
+
 Step 6: Open browser and view your application at 
-`http://localhost:3000`
+`http://localhost:3000`.
 
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
